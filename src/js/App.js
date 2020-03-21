@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import HomeTab from './HomeTab';
 import Navigation from './Navigation';
 import Board from './Board';
-import './App.css';
+import '../css/App.css';
 
 class App extends Component {
   constructor(props) {
